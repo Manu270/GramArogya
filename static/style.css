@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+nav {
+    background-color: #008080;
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+.hero {
+    background-color: #e0f7fa;
+    padding: 40px;
+    text-align: center;
+}
+.info {
+    padding: 20px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 30px auto;
+}
+form input, form textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+form button {
+    padding: 10px;
+    background-color: #00796b;
+    color: white;
+    border: none;
+}

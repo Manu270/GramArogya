@@ -1,0 +1,9 @@
+{
+    "title": "Book Appointment",
+    "name": "Your Name",
+    "village": "Village Name",
+    "contact": "Contact Number",
+    "reason": "Reason for Visit",
+    "submit": "Submit",
+    "confirmation": "Appointment booked successfully!"
+  }  
