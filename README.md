@@ -1,8 +1,4 @@
-Here's a `README.md` file tailored for your **Healthcare Web App** GitHub repository. It includes sections for overview, features, setup, usage, and future improvements:
 
----
-
-```markdown
 # GramArogya - Rural Healthcare Web App 🏥
 
 **GramArogya** is a modern web application aimed at improving access to affordable healthcare in rural areas. It offers appointment booking, symptom analysis using machine learning, and more to connect patients with nearby healthcare services effectively.
@@ -69,6 +65,12 @@ healthcare/
 5. Open your browser and navigate to `http://localhost:5000`
 
    <img width="1469" alt="Screenshot 2025-04-18 at 10 07 09 PM" src="https://github.com/user-attachments/assets/feb1c546-b2ed-4ccc-ba84-b65c3d02864d" />
+   <img width="1466" alt="Screenshot 2025-04-18 at 10 10 45 PM" src="https://github.com/user-attachments/assets/07b3cc9f-dcf2-47a6-afbb-0b61ce35828f" />
+   <img width="1458" alt="Screenshot 2025-04-18 at 10 11 55 PM" src="https://github.com/user-attachments/assets/5cb8298d-003e-4065-a42e-c8bab0f3675c" />
+   <img width="1469" alt="Screenshot 2025-04-18 at 10 12 09 PM" src="https://github.com/user-attachments/assets/eebcf894-f481-40ae-b349-d6b018b84e66" />
+
+
+
 
 
 ## 🔍 Future Enhancements
