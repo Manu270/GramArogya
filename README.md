@@ -82,11 +82,4 @@ healthcare/
 - ✅ Enhance UI with Bootstrap 5 components
 - ✅ Deploy to Heroku or AWS
 
-## 🙌 Contributions
 
-Pull requests are welcome! Feel free to raise issues or suggest features.
-
----
-
-🧠 Developed with a focus on **AI**, **Accessibility**, and **Community Impact**.
-```
